@@ -16,7 +16,7 @@ logging.basicConfig(filename='log.log', level=logging.DEBUG,
                     format='%(asctime)s %(levelname)s %(name)s %(message)s')
 logger=logging.getLogger(__name__)
 
-# User credetials to login Instagram
+# User credentials to login Instagram
 USER = # add your username here
 PASSWORD = # add your password here
 
